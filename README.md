@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abderrahmane Metiri
-- 👀 I’m interested in FULLSTUCK WEB DEVELOPING
+- 👀 I’m interested in FULLSTUCK Web development
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

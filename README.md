@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdou-MTR
+- 👋 Hi, I’m Abderrahmane Metiri
 - 👀 I’m interested in FULLSTUCK WEB DEVELOPING
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on ...

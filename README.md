@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abderrahmane Metiri
 - 👀 I’m interested in FULLSTACK Web development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Web app developement
+- 💞️ I’m looking to collaborate on Web app development
 - 📫 How to reach me https://www.linkedin.com/in/abderrahmane-metiri-268ba7245/ OR metiriabdou@gmail.com
 
 <!---

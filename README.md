@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abderrahmane Metiri
-- 👀 I’m interested in FULLSTUCK Web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in FULLSTACK Web development
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on Web app developement
+- 📫 How to reach me https://www.linkedin.com/in/abderrahmane-metiri-268ba7245/ OR metiriabdou@gmail.com
 
 <!---
 Abdou-MTR/Abdou-MTR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
